@@ -1,91 +1,150 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Sebastian Ziegler's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
+# Sebastian Ziegler
+Data Engineer. Senior Software Developer.
 
 <div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
+<a href="sebastian.ziegler.m@gmail.com">sebastian.ziegler.m@gmail.com</a>
+| <a href="https://github.com/sebastian-ziegler">My github page</a>
 </div>
 
 
-## Currently
+## Description
 
-Standing on the shoulders of giants
+I am very passionate about software development. Always looking for different ways of implementing solutions to solve a problem in an efficient way. Team oriented and challenge lover.
 
-### Specialized in
+## Work Experience
 
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
+`May 2021 - Today`
+- Company: Mendix
+- Location: Rotterdam, The Netherlands
+- Role: Data engineer and Senior Software Engineer
+- Description: Part of the internal datalake of Mendix. Creating pipelines, ingesting data, pre-processing, and cataloging data for its future usage. Some development for internal tools using typescript, scala, and python.
+
+`November 2019 - May 2021`
+- Company: Mendix
+- Location: Rotterdam, The Netherlands
+- Role: Kafka Microservices Engineer and Senior Software Engineer
+- Description: Working as part of the Databroker team implementing modules and microservices to simplify the usage of kafka in the platform.
+
+` May 2018 - October 2019`
+- Company: Xebialabs
+- Location: Hilversum, The Netherlands
+- Role: Senior Software Developer
+- Description: Core product fullstack development (backend focused). Development of CLI tool for the product. DevOps Pipelines, improve failure checks by 30%. Transforming products to be cloud ready.
+
+`July 2016 - April 2018`
+- Company: Matrix CPM Solutions
+- Location: Bogota, Colombia
+- Role: Senior Big Data Consultant
+- Description: Working as a big data consultant to plan, install and configure Hadoop servers and develop multiple algorithms to process data on Hadoop Clusters. ETL process using pig and Spark over Hadoop. Time decrease up to 80% in the processes of some clients. Leading team of two people.
+
+`September 2015 - September 2016`
+- Company: Synergy GB
+- Location: Caracas, Venezuela. Remotely.
+- Role: Application Engineer
+- Description: Create and maintain a layer that connects banking services (SOAP) with 3rd party apps (REST). Using Java and Scala to create all the requirements. Used Docker, Redis, Couchbase, MySQL, MongoDB, and Scala Shapeless.
+
+`August 2013 - August 2015`
+- Company: Freelance
+- Location: Caracas, Venezuela. Remotely.
+- Role: Android Developer
+- Description: Development of native Android applications.
 
 
-### Research interests
+## Technical Skills
 
-Cooling, power series, optics, alchemy, planetary motions, apples.
+- Scala
+- Java
+- Kotlin
+- Python
+- Golang
+- Containers (Docker, Kubernetes)
+- Cloud (AWS)
+- Jenkins
+- Hadoop
+- Spark
+- Airflow
+
+## Soft Skills
+
+- Teamwork
+- Communication
+- Adaptability
+- Conflict resolution
+- Decision Making
+- Analytical skills
+- Scrum
 
 
 ## Education
 
-`1654-1660`
-__The King's School, Grantham.__
+`August 2010 - December 2015`
+_B. Sc. Computer Science._ - __Universidad Central de Venezuela__
+- Caracas, Venezuela.
 
-`June 1661 - now`
-__Trinity College, Cambridge__
+## Courses
 
-- Sizar
+`June 2021`
+_Apache Airflow | A Real-Time & Hands-On Course on Airflow_
+- Udemy
+- <a href="https://www.udemy.com/certificate/UC-1469331f-234f-48ca-a06e-2ec290d77b2d/">Credential: UC-1469331f-234f-48ca-a06e-2ec290d77b2d</a>
 
-`1667 - death`
-__Trinity College, Cambridge__
+`November 2019`
+_Apache Kafka - Kafka Streams_
+- Udemy
+- <a href="https://www.udemy.com/certificate/UC-H35MX7TL/">Credential: UC-H35MX7TL</a>
 
-- Fellow
+`November 2019`
+_Mendix Rapid Developer_
+- Mendix
+- Credential: 17326
 
+`October 2019`
+_Apache Kafka for Beginners v2_
+- Udemy
+- <a href="https://www.udemy.com/certificate/UC-2EN7NNXP/">Credential: UC-2EN7NNXP</a>
 
+`December 2018`
+_Docker developer workshop_
+- Dockercon. Barcelona, Spain.
 
-## Awards
+`August 2017`
+_HDP Certified Spark Developer_
+- Hortonworks
+- <a href="http://bcert.me/smubensf">Credential: 4f148437-8f6a-4876-bbb2-1e02def63376</a>
 
-`2012`
-President, *Royal Society*, London, UK
+`July 2017`
+_Big Data Analysis with Scala and Spark_
+- Coursera
+- <a href="https://www.coursera.org/account/accomplishments/verify/QYLMED2YM3WA">Credential: QYLMED2YM3WA</a>
 
-Associate, *French Academy of Science*, Paris, France
+`October 2016`
+_HDP Certified Administrator_
+- Hortonworks
+- <a href="http://bcert.me/pdaagzpx">Credential: 71a9366c-2dc6-4f5f-844e-9b3258728118</a>
 
+`April 2012`
+- English Course. Universidad Central de Venezuela
 
+## Volunteer Experience
 
-## Publications
+`June 2015`
+Speaker, *JOINCIC - Development of Mobile Videogames using Phaser *, Caracas, Venezuela
 
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
+## Hobbies
 
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
+- Music
+- IOT Projects
+- Sports
+- Gaming
+- Japanese Culture
 
 
 <!-- ### Footer
 
-Last updated: May 2013 -->
+Last updated: Sept 2021 -->
 
 
