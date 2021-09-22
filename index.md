@@ -117,6 +117,7 @@ Udemy
 ```
 Dockercon. Barcelona, Spain.
 ```
+<br>
 
 ### **HDP Certified Spark Developer** `August 2017`
 ```
