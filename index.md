@@ -3,7 +3,7 @@ layout: cv
 title: Sebastian Ziegler's CV
 ---
 # Sebastian Ziegler
-Data Engineer. Senior Software Developer.
+Senior Data Engineer. Senior Software Developer.
 
 <div id="webaddress">
 <a href="sebastian.ziegler.m@gmail.com">sebastian.ziegler.m@gmail.com</a>
