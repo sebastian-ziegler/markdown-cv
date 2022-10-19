@@ -16,8 +16,15 @@ Data Engineer. Senior Software Developer.
 I am very passionate about software development. Always looking for different ways of implementing solutions to solve a problem in an efficient way. Team oriented and challenge lover.
 
 ## Work Experience
+### **Bitvavo** `January 2022 - Today`
+```
+Amsterdam, The Netherlands
+```
+_Senior Data engineer and Tech Lead_<br><br>
 
-### **Mendix** `May 2021 - Today`
+Create a data platform with capabilities of querying data in real time. Create pipelines, ingest data, processing, and cataloging data for its future usage. Schedule processes using Apache Airflow. Data process using Kafka Streams (Kotlin). Make our tooling available through Kubernetes and Terraform.
+
+### **Mendix** `May 2021 - December 2021`
 ```
 Rotterdam, The Netherlands
 ```
@@ -69,15 +76,15 @@ Development of native Android applications.
 ## Technical Skills
 
 |:---:|:---:|:---:|:---:|:---:|
-| Scala | Java | Kotlin | Python | Golang |
-| Docker | Kubernetes | Cloud (AWS) | Jenkins | Gitlab CI |
-| Hadoop  | Kafka | Airflow | Spark | |
+| Scala | Kotlin | Java | Python | Golang |
+| Docker | Kubernetes | Cloud (AWS, GCP) | Jenkins | Gitlab/Github CI |
+| Hadoop  | Kafka | Airflow | Spark | Terraform |
 
 ## Soft Skills
 
 |:---:|:---:|:---:|:---:|:---:|
 | Teamwork | Communication | Adaptability | Conflict resolution | Decision Making |
-| Analytical skills | Scrum |  |  |  |
+| Analytical skills | Scrum | Leading |  |  |
 
 ## Education
 
@@ -147,7 +154,7 @@ Caracas, Venezuela
 ## Languages
 - Spanish: Native
 - English: IELTS 7/9
-- Dutch: Certified A1
+- Dutch: Certified A2
 
 ## Hobbies
 
@@ -158,6 +165,6 @@ Caracas, Venezuela
 
 <!-- ### Footer
 
-Last updated: Sept 2021 -->
+Last updated: Oct 2022 -->
 
 
