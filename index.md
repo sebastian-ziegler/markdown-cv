@@ -3,7 +3,7 @@ layout: cv
 title: Sebastian Ziegler's CV
 ---
 # Sebastian Ziegler
-Data Engineer. Senior Software Developer.
+Senior Data Engineer. Senior Software Developer.
 
 <div id="webaddress">
 <a href="sebastian.ziegler.m@gmail.com">sebastian.ziegler.m@gmail.com</a>
@@ -16,14 +16,21 @@ Data Engineer. Senior Software Developer.
 I am very passionate about software development. Always looking for different ways of implementing solutions to solve a problem in an efficient way. Team oriented and challenge lover.
 
 ## Work Experience
+### **Bitvavo** `January 2022 - Today`
+```
+Amsterdam, The Netherlands
+```
+_Senior Data engineer and Tech Lead_<br><br>
 
-### **Mendix** `May 2021 - Today`
+Create a data platform with capabilities of querying data in real time. Create pipelines, ingest data, processing, and cataloging data for its future usage. Schedule processes using Apache Airflow. Data process using Kafka Streams (Kotlin). Make our tooling available through Kubernetes and Terraform. Lead a team of 3 people and be the point of contact for the Engineering part of the Data & Analytics team of the company.
+
+### **Mendix** `May 2021 - December 2021`
 ```
 Rotterdam, The Netherlands
 ```
 _Data engineer and Senior Software Engineer_<br><br>
 
-Part of the internal datalake of Mendix. Creating pipelines, ingesting data, pre-processing, and cataloging data for its future usage. Some development for internal tools using typescript, scala, and python.
+Part of the internal datalake of Mendix. Creating pipelines, ingesting data, pre-processing, and cataloging data for its future usage. Some development for internal tools using Typescript, Scala, Spark and Python.
 
 ### **Mendix** `November 2019 - May 2021`
 ```
@@ -45,7 +52,7 @@ Core product fullstack development (backend focused). Development of CLI tool fo
 ```
 Bogota, Colombia
 ```
-_Senior Big Data Consultant_<br><br>
+_Big Data Consultant_<br><br>
 
 Working as a big data consultant to plan, install and configure Hadoop servers and develop multiple algorithms to process data on Hadoop Clusters. ETL process using pig and Spark over Hadoop. Time decrease up to 80% in the processes of some clients. Leading team of two people.
 
@@ -69,15 +76,15 @@ Development of native Android applications.
 ## Technical Skills
 
 |:---:|:---:|:---:|:---:|:---:|
-| Scala | Java | Kotlin | Python | Golang |
-| Docker | Kubernetes | Cloud (AWS) | Jenkins | Gitlab CI |
-| Hadoop  | Kafka | Airflow | Spark | |
+| Scala | Kotlin | Java | Python | Golang |
+| Docker | Kubernetes | Cloud (AWS, GCP) | Jenkins | Gitlab/Github CI |
+| Hadoop  | Kafka | Airflow | Spark | Terraform |
 
 ## Soft Skills
 
 |:---:|:---:|:---:|:---:|:---:|
 | Teamwork | Communication | Adaptability | Conflict resolution | Decision Making |
-| Analytical skills | Scrum |  |  |  |
+| Analytical skills | Scrum | Leading |  |  |
 
 ## Education
 
@@ -147,17 +154,17 @@ Caracas, Venezuela
 ## Languages
 - Spanish: Native
 - English: IELTS 7/9
-- Dutch: Certified A1
+- Dutch: Certified A2
 
 ## Hobbies
 
 |:---:|:---:|:---:|:---:|:---:|
-| Music | IOT Projects | Sports | Videogames | Japanese Culture |
-| PC Overclocking | Musical Instruments |  |  |  |
+| Music | IOT Projects | Weight Lifting | Videogames | Japanese Culture |
+| PC Overclocking | Musical Instruments | Concerts |  |  |
 
 
 <!-- ### Footer
 
-Last updated: Sept 2021 -->
+Last updated: Dec 2022 -->
 
 
