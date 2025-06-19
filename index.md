@@ -3,7 +3,7 @@ layout: cv
 title: Sebastian Ziegler's CV
 ---
 # Sebastian Ziegler
-Senior Data Engineer. Senior Software Developer.
+Staff Data Engineer.
 
 <div id="webaddress">
 <a href="sebastian.ziegler.m@gmail.com">sebastian.ziegler.m@gmail.com</a>
@@ -13,14 +13,22 @@ Senior Data Engineer. Senior Software Developer.
 
 ## About me
 
-I am very passionate about software development. Always looking for different ways of implementing solutions to solve a problem in an efficient way. Team oriented and challenge lover.
+I am very passionate about software development. Always looking for different ways of implementing solutions to solve problems in an efficient way. Team oriented and challenge lover.
 
 ## Work Experience
-### **Bitvavo** `January 2022 - Today`
+### **Bitvavo** `January 2025 - Today`
 ```
 Amsterdam, The Netherlands
 ```
-_Senior Data engineer and Tech Lead_<br><br>
+_Staff data engineer_<br><br>
+
+Work alongside other staff engineers in the company to bring high impact projects to the Platform domain. Currently we are working on creating different guardrails to use kafka connectors in a simplified way for all the 100 different engineers around the company. This implies to do bigger migrations on usage patterns, automated checks on deployment configurations and introduce standardize observability around the solution.
+
+### **Bitvavo** `January 2022 - December 2024`
+```
+Amsterdam, The Netherlands
+```
+_Senior Data engineer, Tech Lead_<br><br>
 
 Create a data platform with capabilities of querying data in real time. Create pipelines, ingest data, processing, and cataloging data for its future usage. Schedule processes using Apache Airflow. Data process using Kafka Streams (Kotlin). Make our tooling available through Kubernetes and Terraform. Lead a team of 3 people and be the point of contact for the Engineering part of the Data & Analytics team of the company.
 
@@ -159,12 +167,12 @@ Caracas, Venezuela
 ## Hobbies
 
 |:---:|:---:|:---:|:---:|:---:|
-| Music | IOT Projects | Weight Lifting | Videogames | Japanese Culture |
-| PC Overclocking | Musical Instruments | Concerts |  |  |
+| Music | IOT Projects | Exercising | Videogames | Japanese Culture |
+| Travelling | Musical Instruments | Concerts | Bouldering | Board games |
 
 
 <!-- ### Footer
 
-Last updated: Dec 2022 -->
+Last updated: June 2026 -->
 
 
