@@ -32,6 +32,8 @@ _Senior Data engineer, Tech Lead_<br><br>
 
 Create a data platform with capabilities of querying data in real time. Create pipelines, ingest data, processing, and cataloging data for its future usage. Schedule processes using Apache Airflow. Data process using Kafka Streams (Kotlin). Make our tooling available through Kubernetes and Terraform. Lead a team of 3 people and be the point of contact for the Engineering part of the Data & Analytics team of the company.
 
+Migrate from Google BigQuery to Snowflake with 0 downtime on our processes.
+
 ### **Mendix** `May 2021 - December 2021`
 ```
 Rotterdam, The Netherlands
