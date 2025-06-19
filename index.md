@@ -85,16 +85,16 @@ Development of native Android applications.
 
 ## Technical Skills
 
-|:---:|:---:|:---:|:---:|:---:|
-| Scala | Kotlin | Java | Python | Golang |
-| Docker | Kubernetes | Cloud (AWS, GCP) | Jenkins | Gitlab/Github CI |
-| Hadoop  | Kafka | Airflow | Spark | Terraform |
+|:---:|:---:|:---:|:---:|:---:|:---:|
+| Scala | Kotlin | Java | Python | Golang | AI |
+| Docker | Kubernetes | Cloud (AWS, GCP) | Flink | Gitlab/Github CI | DBT |
+| Hadoop  | Kafka | Airflow | Spark | Terraform | DevOps |
 
 ## Soft Skills
 
 |:---:|:---:|:---:|:---:|:---:|
 | Teamwork | Communication | Adaptability | Conflict resolution | Decision Making |
-| Analytical skills | Scrum | Leading |  |  |
+| Analytical skills | Scrum | Leadership |  |  |
 
 ## Education
 
